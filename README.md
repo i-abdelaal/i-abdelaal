@@ -110,11 +110,11 @@
 
 ## 📚 Education
 
-- **Academic Diploma of Computer Science**  
+- **Academic Diploma in Computer Science**  
   >FGSSR - Cairo University, Egypt  
   >Oct 2021 - Jun 2023, GPA: 3.21
 
-- **Bachelor of Pharmacy (B.Pharm.)**  
+- **Bachelor's Degree in Pharmacy (B.Pharm.)**  
   >Asyut University  
   >Jan 2006 - Jan 2011
 
