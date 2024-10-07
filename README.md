@@ -138,23 +138,17 @@
 ## 💼 Projects
 
 - **XLP Performer (Next.js Version)**
-  Jun 2024 - present
-  A project management tool enhancing project planning and execution.
+  >A project management tool enhancing project planning, execution, and monitoring processes for efficient management.
 - **Atlantis**
-  Jul 2023 - May 2024
-  A framework for archives, museums, libraries, and archaeologists.
+  >A framework catering to archives, museums, libraries, and archaeologists, extendable with plug-ins for diverse features.
 - **Gate Pass**
-  Mar 2023 - Jun 2023
-  An enterprise application regulating company device movement.
+  >An enterprise application regulating and monitoring the movement of company devices, enhancing security and asset management.
 - **Tax Acc**
-  Feb 2023 - Apr 2023
-  An enterprise application for tax management and accounting.
+  >An enterprise application tailored for tax management and accounting, simplifying financial processes and ensuring compliance.
 - **Online Seminar**
-  Sep 2022 - Jan 2023
-  A sophisticated enterprise application for virtual events.
+  >A sophisticated enterprise application facilitating virtual events with real-time communication and interactive tools.
 - **XLP Performer (Angular Version)**
-  Nov 2021 - Jul 2022
-  A project management tool enhancing project planning and execution.
+  >A project management tool enhancing project planning, execution, and monitoring processes for efficient management.
 
 ## 🌐 Languages
 
