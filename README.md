@@ -2,14 +2,14 @@
 
 
 <p align="right"> 👉
-<a href="https://docs.google.com/document/d/17veCEEBwEn0jOHO2lrvcgCnOurMnfpGKyt_4JODO-kY/edit?usp=sharing" target="blank">Check Out My Resume</a>
+<a href="https://docs.google.com/document/d/17veCEEBwEn0jOHO2lrvcgCnOurMnfpGKyt_4JODO-kY/edit?usp=sharing" target="blank">Get My Resume</a>
 </p>
 
 ## 👋 About Me
 
-🚀 I'm a highly motivated results-driven Full-stack Web Developer with over 5 years of experience, specializing in JavaScript and TypeScript. Transitioned from a successful career as a **pharmacist** 💊 to pursue a passion for coding, culminating in my current role as a **proficient full-stack web developer**. With a proven track record of delivering high-quality web applications using a variety of tech stacks, I'm seeking to leverage expertise in frontend and backend development to contribute to innovative projects.
+🚀 Results-driven Full-stack Web Developer with over 5 years of experience, specializing in JavaScript and TypeScript. I've transitioned from a successful career as a **pharmacist** 💊 to pursue a passion for coding, culminating in my current role as a **proficient full-stack web developer**. With a proven track record of delivering high-quality web applications using a variety of tech stacks, I am currently, seeking to leverage expertise in frontend and backend development and contribute to innovative projects.
 
-## 🛠 Skills
+## 🛠 Skills & Tools
 
 - **Frontend:** React, Next.js, Angular
 - **Backend:** Node.js, Express.js, Loopback 4, Sequelize, TypeORM, Prisma
@@ -82,32 +82,44 @@
 
 ## 📈 Experience
 
-### Software Developer
+- ### Software Developer
 
->**Eastern Enterprise**, Overijssel, Netherlands · Remote  
->_Nov 2021 - Present_
+  >**Eastern Enterprise**, Overijssel, Netherlands · Remote  
+  >_Nov 2021 - Present_
 
-- Collaborated with clients to explore software projects.
-- Created software solutions following Agile methodology.
-- Guided and supported junior developers.
-- Developed advanced programming code to streamline business processes.
+  - Collaborated with clients to explore software projects.
+  - Created software solutions following Agile methodology.
+  - Guided and supported junior developers.
+  - Developed advanced programming code to streamline business processes.
 
-### Software Developer
+- ### Software Developer
 
->**Infinity Advanced Technologies**, Cairo, Egypt · Remote  
->_Apr 2019 - Oct 2021_
+  >**Infinity Advanced Technologies**, Cairo, Egypt · Remote  
+  >_Apr 2019 - Oct 2021_
 
-- Engaged directly with clients to define software project requirements.
-- Independently designed and developed diverse software solutions within an Agile framework.
-- Managed end-to-end software development life cycles.
-- Participated in refinement and planning meetings.
+  - Engaged directly with clients to define software project requirements.
+  - Independently designed and developed diverse software solutions within an Agile framework.
+  - Managed end-to-end software development life cycles.
+  - Participated in refinement and planning meetings.
 
 ## 💯 Accomplishments
-
-- Developed a versatile framework for archives, museums, libraries, and archaeologists using Angular, Material UI, and Formly.
-- Created an advanced enterprise app for online seminars with real-time features using React, Formik, Yup, Tailwind CSS, Signal R, Vindral, React Query, and Redux.
-- Designed a project management tool emphasizing planning and collaboration with Angular, Yup, Material UI, Loopback 4, and PostgreSQL.
-
+- Contributed to an Advanced SaaS Application with Real-time Capabilities
+  >Played a pivotal role in optimizing real-time features using Signal R and Vindral, enhancing the application's responsiveness and ensuring timely data updates.
+- Engineered Efficient Data Fetching Mechanisms
+  >Implemented Web Workers to offload heavy data fetching tasks from the main thread, improving application performance and ensuring a seamless user experience.
+- Developed Scheduled Actions with Cron Jobs
+  >Implemented scheduled actions using Cron Jobs for automating tasks such as sending emails, and notifications, and updating the database at predetermined intervals, enhancing operational efficiency and data integrity.
+- Implemented Complex Customizable Dynamic Forms
+  >Designed and implemented custom dynamic forms using Formik, React-Hook-Form in React, and Formly in Angular, enhancing user data input experiences and form flexibility.
+- Developed Customizable Dynamic Tables
+  >Engineered dynamic tables with customizable features for efficient display and management of large datasets, leveraging TanStack Table in React for enhanced data visualization.
+- Implemented Complex Drag & Drop Feature
+  >Spearheaded the integration of a sophisticated Drag & Drop functionality in the application, empowering users to intuitively rearrange multiple elements in real-time while ensuring seamless synchronization with the backend.
+- Developed an Innovative Calendar UI in React
+  >Engineered a visually appealing and user-friendly calendar interface in React, showcasing daily meetings with concise summaries of associated data, enhancing user experience and facilitating efficient scheduling and information retrieval.
+- Created Dynamic Reports for the Accounting Module
+  >Developed dynamic reporting functionalities for the accounting module in the Odoo ERP system utilizing the Owl framework, streamlining financial data analysis and reporting processes.
+  
 ## 📚 Education
 
 - **Academic Diploma in Computer Science**  
