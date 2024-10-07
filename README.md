@@ -138,7 +138,7 @@
 ## 💼 Projects
 
 - **XLP Performer (Next.js Version)**
-  Jun 2024 - Jun 2024
+  Jun 2024 - present
   A project management tool enhancing project planning and execution.
 - **Atlantis**
   Jul 2023 - May 2024
