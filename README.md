@@ -102,7 +102,7 @@
   - Managed end-to-end software development life cycles.
   - Participated in refinement and planning meetings.
 
-## 💯 Accomplishments
+## 💯 Achievements
 - Contributed to an Advanced SaaS Application with Real-time Capabilities
   >Played a pivotal role in optimizing real-time features using Signal R and Vindral, enhancing the application's responsiveness and ensuring timely data updates.
 - Engineered Efficient Data Fetching Mechanisms
