@@ -7,7 +7,7 @@
 
 ## 👋 About Me
 
-🚀 Results-driven Full-stack Frontend Web Developer with over 5 years of experience, specializing in JavaScript and TypeScript. I've transitioned from a successful career as a **pharmacist** 💊 to pursue a passion for coding, culminating in my current role as a **proficient full-stack Frontend web developer**. With a proven track record of delivering high-quality web applications using a variety of tech stacks, I am currently, seeking to leverage expertise in frontend and backend development and contribute to innovative projects.
+🚀 Results-driven Full-stack Frontend Web Developer with over 5 years of experience, specializing in JavaScript and TypeScript. I've transitioned from a successful career as a **pharmacist** 💊 to pursue a passion for coding, culminating in my current role as a **proficient full-stack frontend web developer**. With a proven track record of delivering high-quality web applications using a variety of tech stacks, I am currently, seeking to leverage expertise in frontend and backend development and contribute to innovative projects.
 
 ## 🛠 Skills & Tools
 
