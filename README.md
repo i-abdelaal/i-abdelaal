@@ -1,4 +1,4 @@
-<h1 align="center"><i>Full-stack Web Developer | Digital Nomad</i> ⛱</h1>
+<h1 align="center"><i>Full-stack Frontend Web Developer | Digital Nomad</i> ⛱</h1>
 
 
 <p align="right"> 👉
@@ -7,14 +7,14 @@
 
 ## 👋 About Me
 
-🚀 Results-driven Full-stack Web Developer with over 5 years of experience, specializing in JavaScript and TypeScript. I've transitioned from a successful career as a **pharmacist** 💊 to pursue a passion for coding, culminating in my current role as a **proficient full-stack web developer**. With a proven track record of delivering high-quality web applications using a variety of tech stacks, I am currently, seeking to leverage expertise in frontend and backend development and contribute to innovative projects.
+🚀 Results-driven Full-stack Frontend Web Developer with over 5 years of experience, specializing in JavaScript and TypeScript. I've transitioned from a successful career as a **pharmacist** 💊 to pursue a passion for coding, culminating in my current role as a **proficient full-stack Frontend web developer**. With a proven track record of delivering high-quality web applications using a variety of tech stacks, I am currently, seeking to leverage expertise in frontend and backend development and contribute to innovative projects.
 
 ## 🛠 Skills & Tools
 
 - **Frontend:** React, Next.js, Angular
 - **Backend:** Node.js, Express.js, Loopback 4, Sequelize, TypeORM, Prisma
 - **Database:** PostgreSQL, MySQL
-- **Other:** TypeScript, Redux, Redux Thunk, Signal R, Tanstack, Formik, Formly, React Hook Form, Zustand, Yup, GIT, Bootstrap, Material UI, Tailwind CSS
+- **Other:** TypeScript, Redux, Redux Thunk, Signal R, Tanstack, Formik, Formly, React Hook Form, Zustand, Yup, Zod, Joi, GIT, Bootstrap, Material UI, Tailwind CSS
 
 ##
 
