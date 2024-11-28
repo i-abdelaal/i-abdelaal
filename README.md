@@ -14,7 +14,7 @@ As a V-shaped software developer specializing in frontend technologies, particul
 - **Frontend:** React, Next.js, Angular
 - **Backend:** Node.js, Express.js, Loopback 4, Sequelize, TypeORM, Prisma
 - **Database:** PostgreSQL, MySQL
-- **Other:** TypeScript, Redux, Redux Thunk, Signal R, Tanstack, Formik, Formly, React Hook Form, Zustand, Yup, Zod, Joi, GIT, Bootstrap, Material UI, Tailwind CSS
+- **Other:** TypeScript, Redux, Redux Thunk, Signal R, Tanstack, Formik, Formly, React Hook Form, Zustand, Yup, Zod, Joi, GIT, Bootstrap, Material UI, Tailwind CSS, Docker, Odoo (ERP)
 
 ##
 
