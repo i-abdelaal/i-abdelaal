@@ -122,7 +122,7 @@ As a V-shaped software developer specializing in frontend technologies, particul
   
 ## 📚 Education
 
-- **Academic Diploma in Computer Science**  
+- **Postgraduate Academic Diploma in Computer Science**  
   >FGSSR - Cairo University, Egypt  
   >Oct 2021 - Jun 2023, GPA: 3.21
 
