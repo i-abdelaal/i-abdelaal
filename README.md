@@ -1,20 +1,36 @@
-<h1 align="center"><i>Software Developer ( Frontend Specialty ) | Digital Nomad</i> ⛱</h1>
+<h1 align="center"><i>Software Developer < Frontend Specialist /></h1>
 
 
 <p align="right"> 👉
 <a href="https://docs.google.com/document/d/17veCEEBwEn0jOHO2lrvcgCnOurMnfpGKyt_4JODO-kY/edit?usp=sharing" target="blank">Get My Resume</a>
 </p>
 
-## 👋 About Me
+## 💡 What I bring to the table
 
-As a V-shaped software developer specializing in frontend technologies, particularly React, I bring over 5 years of experience as a results-oriented Frontend Web Developer. Originally, I worked as a pharmacist. I transitioned to pursue my passion for coding, which led me to excel in crafting high-quality web applications using JavaScript and TypeScript. With a strong background in both frontend and backend development, I am actively seeking opportunities to apply my expertise to innovative projects and make impactful contributions to the field.
+**Experience:**
+<br />
+As a V-shaped software developer specializing in frontend technologies, particularly React, I leverage over 5 years of expertise as a performance-driven Frontend Web Developer. My background spans both frontend and backend development, ensuring comprehensive solutions.
+
+**Domain Knowledge:**
+<br />
+My journey encompasses diverse domains like Accounting, Project Management, Healthcare, Education, Monitoring & Evaluation, Inventory Management, and Odoo ERP system. This breadth of experience enables me to adapt swiftly to varied project requirements.
+
+**Methodology:**
+<br />
+Embracing Agile principles in project management, I actively engage in planning, refinement, grooming, and retrospective sessions. This iterative approach ensures continuous improvement and client satisfaction.
+
+**Best Practices:**
+<br />
+I hone my JavaScript and TypeScript skills by following clean code guidelines and design patterns. This dedication results in scalable, maintainable solutions that excel in complexity. My commitment to industry best practices drives efficient development processes and high-quality outcomes.
+
+
 
 ## 🛠 Skills & Tools
 
 - **Frontend:** React, Next.js, Angular
 - **Backend:** Node.js, Express.js, Loopback 4, Sequelize, TypeORM, Prisma
 - **Database:** PostgreSQL, MySQL
-- **Other:** TypeScript, Redux, Redux Thunk, Signal R, Tanstack, Formik, Formly, React Hook Form, Zustand, Yup, Zod, Joi, GIT, Bootstrap, Material UI, Tailwind CSS, Docker, Odoo (ERP)
+- **Others:** TypeScript, Redux, Redux Thunk, Signal R, Tanstack, Formik, Formly, React Hook Form, Zustand, Yup, Zod, Joi, GIT, Bootstrap, Material UI, Tailwind CSS, Docker, Odoo (ERP)
 
 ##
 
