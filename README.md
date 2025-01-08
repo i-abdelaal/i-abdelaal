@@ -1,4 +1,4 @@
-<h1 align="center"><i>Software Developer < Frontend Specialist /></h1>
+<h1 align="center"><i>Software Developer</h1>
 
 
 <p align="right"> 👉
