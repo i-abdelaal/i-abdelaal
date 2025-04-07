@@ -1,9 +1,8 @@
 <h1 align="center"><i>Software Developer</h1>
 
-
-<p align="right"> 👉
-<a href="https://docs.google.com/document/d/17veCEEBwEn0jOHO2lrvcgCnOurMnfpGKyt_4JODO-kY/edit?usp=sharing" target="blank">Get My Resume</a>
-</p>
+<br />
+<br />
+<br />
 
 ## 💡 What I bring to the table
 
