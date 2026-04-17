@@ -152,10 +152,12 @@ I hone my JavaScript and TypeScript skills by following clean code guidelines an
 - Comprehensive Guide to Software Architecture [Show credential](https://alison.com/verify/87cc41e11e)
 ## 💼 Projects
 
+- **DocSys Online**
+  >A platform specializing in document creation and house style automation, designed to help organizations generate error-free documents quickly. The software integrates with Microsoft Office to enable centralized document management and, as used by Dutch organizations like the Tax Authority, ensures compliance with branding guidelines.
 - **XLP Performer (Next.js Version)**
   >A project management tool enhancing project planning, execution, and monitoring processes for efficient management.
 - **Atlantis**
-  >A framework catering to archives, museums, libraries, and archaeologists, extendable with plug-ins for diverse features.
+  >Atlantis is a fully web-based solution for collection management and the online publication of archive, museum, library, and archaeological collections.
 - **Gate Pass**
   >An enterprise application regulating and monitoring the movement of company devices, enhancing security and asset management.
 - **Tax Acc**
