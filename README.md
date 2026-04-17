@@ -147,9 +147,9 @@ I hone my JavaScript and TypeScript skills by following clean code guidelines an
 
 ## 📜 Certifications
 
-- Google IT Automation Professional Certificate [Show Credential](https://www.credly.com/badges/fe9fa014-c7f3-4f7d-98ac-aae8eccec5ce?source=linked_in_profile)
-- Google IT Support Professional Certificate [Show Credential](https://www.credly.com/badges/092e2162-e4ca-43c0-b5c6-f13842af782b?source=linked_in_profile)
-- Comprehensive Guide to Software Architecture [Show Credential](https://alison.com/verify/87cc41e11e)
+- Google IT Automation Professional Certificate [Show credential](https://www.credly.com/badges/fe9fa014-c7f3-4f7d-98ac-aae8eccec5ce?source=linked_in_profile)
+- Google IT Support Professional Certificate [Show credential](https://www.credly.com/badges/092e2162-e4ca-43c0-b5c6-f13842af782b?source=linked_in_profile)
+- Comprehensive Guide to Software Architecture [Show credential](https://alison.com/verify/87cc41e11e)
 ## 💼 Projects
 
 - **XLP Performer (Next.js Version)**
