@@ -8,7 +8,7 @@
 
 **Experience:**
 <br />
-As a V-shaped software developer specializing in frontend technologies, particularly React, I leverage over 5 years of expertise as a performance-driven Frontend Web Developer. My background spans both frontend and backend development, ensuring comprehensive solutions.
+As a V-shaped software developer/engineer specializing in frontend technologies, particularly React, I leverage over 5 years of expertise as a performance-driven Frontend Web Developer. My background spans both frontend and backend development, ensuring comprehensive solutions.
 
 **Domain Knowledge:**
 <br />
